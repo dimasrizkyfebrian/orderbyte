@@ -1,0 +1,1 @@
+<img src="{{ asset('images/brandLogo.webp') }}" alt="Reka-Coffeeshop" class="w-10 h-10">
